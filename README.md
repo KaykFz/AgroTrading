@@ -27,7 +27,7 @@ A AgroTrading busca solucionar esse problema criando uma ponte direta entre esse
 <br>
 <br>
 Atualmente, compradores podem enfrentar dificuldades para:
-
+<br><br>
 º Encontrar produtores disponíveis;
 º Comparar preços entre diferentes fornecedores;
 º Encontrar produtos com disponibilidade imediata;
