@@ -51,7 +51,7 @@ Enquanto isso, produtores podem ter dificuldades para:
 A AgroTrading funcionará como uma ponte entre produtores e compradores, centralizando ofertas de produtos agrícolas em uma única plataforma.
 O produtor poderá cadastrar uma oferta informando:
 <br><br>
-Informação	Descrição
+
 | Informação | Descrição |
 |:---|:---|
 | 👨‍🌾 Produtor | Identificação do fornecedor |
@@ -59,6 +59,7 @@ Informação	Descrição
 | 📦 Quantidade | Quantidade disponível |
 | 💰 Preço | Valor do produto |
 <br><br>
+
 O comprador poderá visualizar diferentes ofertas e escolher aquela que melhor atende às suas necessidades.
 <br><br>
 
