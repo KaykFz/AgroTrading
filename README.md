@@ -16,13 +16,13 @@ A AgroTrading busca solucionar esse problema criando uma ponte direta entre esse
 <br>
 <br>
 🎯 Público-alvo
-
+<br>
+<br>
 | **Para compradores** | **Para produtores** |
 | :------------------- | :------------------ |
 | 🏪 Mercados          | 👨‍🌾 Produtores    |
 | 🍽️ Restaurantes     | 🌱 Agricultores     |
 | 🥬 Hortifrutis       | 🚜 Fornecedores     |
-<br>
 <br>
 <br>
 Atualmente, compradores podem enfrentar dificuldades para:
