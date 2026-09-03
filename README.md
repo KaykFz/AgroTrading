@@ -53,12 +53,12 @@ O produtor poderá cadastrar uma oferta informando:
 <br><br>
 
 Informação	Descrição
-👨‍🌾 Produtor	Identificação do fornecedor
-🥔 Produto	Fruta, legume ou verdura disponível
-📦 Quantidade	Quantidade disponível para venda
-⭐ Qualidade	Classificação ou descrição da qualidade
-💰 Preço	Valor solicitado pelo produto
-🚚 Entrega	Prazo e condições de entrega
+| Informação | Descrição |
+|:---|:---|
+| 👨‍🌾 Produtor | Identificação do fornecedor |
+| 🥔 Produto | Fruta, legume ou verdura |
+| 📦 Quantidade | Quantidade disponível |
+| 💰 Preço | Valor do produto |
 
 O comprador poderá visualizar diferentes ofertas e escolher aquela que melhor atende às suas necessidades.
 <br><br>
