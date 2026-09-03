@@ -14,14 +14,14 @@ A AgroTrading busca solucionar esse problema criando uma ponte direta entre esse
 🎯 Público-alvo
 
 Compradores:
-
+:---:---
 🏪 Mercados
 🥬 Hortifrutis
 🍽️ Restaurantes
 🛒 Outros estabelecimentos que comercializam alimentos
 
 Vendedores:
-
+:---:---
 👨‍🌾 Produtores rurais
 🚜 Pequenos e médios produtores
 🌱 Fornecedores de produtos agrícolas
