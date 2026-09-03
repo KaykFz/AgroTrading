@@ -2,17 +2,17 @@
 
 A AgroTrading é uma plataforma digital criada para conectar produtores rurais a mercados, hortifrutis e restaurantes, facilitando a compra e venda de frutas, legumes e verduras de forma rápida, transparente e eficiente.
 A proposta é funcionar como uma espécie de leilão digital de produtos agrícolas, permitindo que compradores encontrem ofertas de diferentes produtores e comparem informações como preço, quantidade, qualidade e prazo de entrega.
-
-
+<br>
+<br>
+<br>
 📌 Sobre o projeto
-<br>
-<br>
 <br>
 Mercados, restaurantes e hortifrutis frequentemente precisam encontrar fornecedores que possuam determinados produtos disponíveis, em quantidades específicas e com condições de entrega adequadas.
 Por outro lado, produtores rurais podem enfrentar dificuldades para encontrar compradores e divulgar sua produção de maneira eficiente.
 A AgroTrading busca solucionar esse problema criando uma ponte direta entre esses dois públicos.
-
-
+<br>
+<br>
+<br>
 🎯 Público-alvo
 
 | **Para compradores** | **Para produtores** |
@@ -20,8 +20,9 @@ A AgroTrading busca solucionar esse problema criando uma ponte direta entre esse
 | 🏪 Mercados          | 👨‍🌾 Produtores    |
 | 🍽️ Restaurantes     | 🌱 Agricultores     |
 | 🥬 Hortifrutis       | 🚜 Fornecedores     |
-
-
+<br>
+<br>
+<br>
 Atualmente, compradores podem enfrentar dificuldades para:
 
 º Encontrar produtores disponíveis;
@@ -39,8 +40,9 @@ Enquanto isso, produtores podem ter dificuldades para:
 º Encontrar novos clientes;
 º Evitar desperdícios causados pela falta de compradores;
 º Negociar diretamente com estabelecimentos interessados.
-
-
+<br>
+<br>
+<br>
 💡 Solução proposta
 
 A AgroTrading funcionará como uma ponte entre produtores e compradores, centralizando ofertas de produtos agrícolas em uma única plataforma.
