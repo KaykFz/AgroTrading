@@ -35,9 +35,9 @@ Atualmente, compradores podem enfrentar dificuldades para:
 º Conseguir melhores condições de compra;
 º Encontrar fornecedores com prazos de entrega adequados;
 º Ter informações claras sobre qualidade e disponibilidade.
-
+<br><br>
 Enquanto isso, produtores podem ter dificuldades para:
-
+<br><br>
 º Encontrar compradores para sua produção;
 º Divulgar seus produtos;
 º Encontrar novos clientes;
@@ -47,9 +47,10 @@ Enquanto isso, produtores podem ter dificuldades para:
 <br>
 <br>
 💡 Solução proposta
-
+<br><br>
 A AgroTrading funcionará como uma ponte entre produtores e compradores, centralizando ofertas de produtos agrícolas em uma única plataforma.
 O produtor poderá cadastrar uma oferta informando:
+<br><br>
 
 Informação	Descrição
 👨‍🌾 Produtor	Identificação do fornecedor
@@ -60,7 +61,7 @@ Informação	Descrição
 🚚 Entrega	Prazo e condições de entrega
 
 O comprador poderá visualizar diferentes ofertas e escolher aquela que melhor atende às suas necessidades.
-
+<br><br>
 
 🔎 Exemplo de utilização
 
