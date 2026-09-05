@@ -28,7 +28,7 @@ A AgroTrading busca solucionar esse problema criando uma ponte direta entre esse
 | 🍽️ Restaurantes     | 🌱 Agricultores     |
 | 🥬 Hortifrutis       | 🚜 Fornecedores     |
 <br>
-<br>
+
 Atualmente, compradores podem enfrentar dificuldades para:
 <br><br>
 º Encontrar produtores disponíveis;
