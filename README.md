@@ -43,7 +43,8 @@ Enquanto isso, produtores podem ter dificuldades para:
 º Encontrar novos clientes;
 º Evitar desperdícios causados pela falta de compradores;
 º Negociar diretamente com estabelecimentos interessados.
-
+<br>
+<br>
 
 
 ## 💡 Solução proposta
