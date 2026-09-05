@@ -62,7 +62,8 @@ O produtor poderá cadastrar uma oferta informando:
 
 O comprador poderá visualizar diferentes ofertas e escolher aquela que melhor atende às suas necessidades.
 <br><br>
-
+<br>
+<br>
 ## 🔎 Exemplo de utilização
 
 Imagine que um mercado comercialize aproximadamente 100 kg de batata por semana.
