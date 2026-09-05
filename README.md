@@ -44,6 +44,8 @@ Enquanto isso, produtores podem ter dificuldades para:
 º Evitar desperdícios causados pela falta de compradores;
 º Negociar diretamente com estabelecimentos interessados.
 
+
+
 ## 💡 Solução proposta
 <br><br>
 A AgroTrading funcionará como uma ponte entre produtores e compradores, centralizando ofertas de produtos agrícolas em uma única plataforma.
