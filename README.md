@@ -79,7 +79,9 @@ A plataforma apresentará produtores que possuem o produto disponível, permitin
 Produtor → Produto → Quantidade → Qualidade → Preço → Prazo de entrega
 
 Dessa forma, o mercado poderá escolher a oferta mais adequada considerando não apenas o preço, mas também a quantidade, qualidade e velocidade de entrega.
-
+<br><br>
+<br>
+<br>
 
 ## 👥 Autores
 
