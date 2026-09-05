@@ -1,4 +1,4 @@
-# AgroTrading
+## AgroTrading
 <br>
 <br>
 A AgroTrading é uma plataforma digital criada para conectar produtores rurais a mercados, hortifrutis e restaurantes, facilitando a compra e venda de frutas, legumes e verduras de forma rápida, transparente e eficiente.
@@ -6,7 +6,7 @@ A proposta é funcionar como uma espécie de leilão digital de produtos agríco
 <br>
 <br>
 <br>
-📌 Sobre o projeto
+## 📌 Sobre o projeto
 <br>
 <br>
 Mercados, restaurantes e hortifrutis frequentemente precisam encontrar fornecedores que possuam determinados produtos disponíveis, em quantidades específicas e com condições de entrega adequadas.
@@ -15,7 +15,7 @@ A AgroTrading busca solucionar esse problema criando uma ponte direta entre esse
 <br>
 <br>
 <br>
-🎯 Público-alvo
+## 🎯 Público-alvo
 <br>
 <br>
 
@@ -46,7 +46,7 @@ Enquanto isso, produtores podem ter dificuldades para:
 <br>
 <br>
 <br>
-💡 Solução proposta
+## 💡 Solução proposta
 <br><br>
 A AgroTrading funcionará como uma ponte entre produtores e compradores, centralizando ofertas de produtos agrícolas em uma única plataforma.
 O produtor poderá cadastrar uma oferta informando:
@@ -62,7 +62,7 @@ O produtor poderá cadastrar uma oferta informando:
 O comprador poderá visualizar diferentes ofertas e escolher aquela que melhor atende às suas necessidades.
 <br><br>
 
-🔎 Exemplo de utilização
+## 🔎 Exemplo de utilização
 
 Imagine que um mercado comercialize aproximadamente 100 kg de batata por semana.
 No final da semana, o estabelecimento possui apenas 50 kg em estoque e precisa repor rapidamente o produto.
@@ -71,3 +71,20 @@ A plataforma apresentará produtores que possuem o produto disponível, permitin
 Produtor → Produto → Quantidade → Qualidade → Preço → Prazo de entrega
 
 Dessa forma, o mercado poderá escolher a oferta mais adequada considerando não apenas o preço, mas também a quantidade, qualidade e velocidade de entrega.
+
+
+## 👥 Autores
+
+| Autor                   | GitHub                                                     |
+| ----------------------- | ---------------------------------------------------------- |
+| **Thais Novaes**        | [@thaisnovaess](https://github.com/thaisnovaess)           |
+| **Gabriel Silva Diniz** | [@GabrielSilvaDiniz](https://github.com/GabrielSilvaDiniz) |
+| **Kayk Cândido**        | [@KaykFz](https://github.com/KaykFz)                       |
+| **Augusto Lima**        | [@SlnphonySoul](https://github.com/SlnphonySoul)           |
+
+---
+
+## 🌱 AgroTrading
+
+**Conectando produtores, mercados, e hortifrutis em um único ambiente digital.**
+
