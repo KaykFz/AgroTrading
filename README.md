@@ -20,6 +20,7 @@ A AgroTrading busca solucionar esse problema criando uma ponte direta entre esse
 <br>
 
 ## 🎯 Público-alvo
+<br>
 | **Para compradores** | **Para produtores** |
 | :------------------- | :------------------ |
 | 🏪 Mercados          | 👨‍🌾 Produtores    |
