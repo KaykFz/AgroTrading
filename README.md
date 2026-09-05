@@ -52,10 +52,11 @@ Enquanto isso, produtores podem ter dificuldades para:
 <br>
 
 ## 💡 Solução proposta
-<br><br>
+<br>
+
 A AgroTrading funcionará como uma ponte entre produtores e compradores, centralizando ofertas de produtos agrícolas em uma única plataforma.
 O produtor poderá cadastrar uma oferta informando:
-<br><br>
+<br>
 
 | Informação | Descrição |
 |:---|:---|
@@ -68,6 +69,7 @@ O comprador poderá visualizar diferentes ofertas e escolher aquela que melhor a
 <br><br>
 <br>
 <br>
+
 ## 🔎 Exemplo de utilização
 
 Imagine que um mercado comercialize aproximadamente 100 kg de batata por semana.
