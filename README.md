@@ -6,19 +6,26 @@ A proposta é funcionar como uma espécie de leilão digital de produtos agríco
 <br>
 <br>
 <br>
+<br>
+
 ## 📌 Sobre o projeto
 <br>
 <br>
+<br>
+<br>
+
 Mercados, restaurantes e hortifrutis frequentemente precisam encontrar fornecedores que possuam determinados produtos disponíveis, em quantidades específicas e com condições de entrega adequadas.
 Por outro lado, produtores rurais podem enfrentar dificuldades para encontrar compradores e divulgar sua produção de maneira eficiente.
 A AgroTrading busca solucionar esse problema criando uma ponte direta entre esses dois públicos.
 <br>
 <br>
 <br>
+<br>
 ## 🎯 Público-alvo
 <br>
 <br>
-
+<br>
+<br>
 | **Para compradores** | **Para produtores** |
 | :------------------- | :------------------ |
 | 🏪 Mercados          | 👨‍🌾 Produtores    |
@@ -45,7 +52,8 @@ Enquanto isso, produtores podem ter dificuldades para:
 º Negociar diretamente com estabelecimentos interessados.
 <br>
 <br>
-
+<br>
+<br>
 
 ## 💡 Solução proposta
 <br><br>
