@@ -93,6 +93,7 @@ Dessa forma, o mercado poderá escolher a oferta mais adequada considerando não
 | **Augusto Lima**        | [@SlnphonySoul](https://github.com/SlnphonySoul)           |
 
 ---
+<br>
 
 ## 🌱 AgroTrading
 
